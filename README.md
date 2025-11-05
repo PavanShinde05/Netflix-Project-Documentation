@@ -168,7 +168,8 @@ pipeline {
 
 **then build the pipeline**
 # Output
-<img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
+<img width="1037" height="543" alt="image" src="https://github.com/user-attachments/assets/18cdd46a-8907-47b0-b42b-74bde553cf01" />
+
 
 
 
