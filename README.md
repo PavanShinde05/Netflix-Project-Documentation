@@ -77,7 +77,7 @@ sudo apt-get install trivy -y
 
 ## Now Create the SonarQube token by login in with Port Number 9000
 Username and Password: **admin**
-**go to administrator->security->create token
+**go to administrator->security->create token**
 
 <img width="1918" height="680" alt="image" src="https://github.com/user-attachments/assets/5c80d1f4-5a22-4c2f-8181-e2a58534c70a" />
 
