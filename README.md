@@ -7,8 +7,8 @@
 ## Step2: Connect To Instance
  - Install Jenkins
  - Install Docker
- - Install SonarQube    # used for code quality testing
- - Install Trivy        # used to scan docker images
+ - Install SonarQube    **used for code quality testing**
+ - Install Trivy        **used to scan docker images**
       
 **Jenkins**
 ````
@@ -33,7 +33,7 @@ sudo usermod -aG docker jenkins
 newgrp docker
 sudo chmod 777 /var/run/docker.sock
 ````
-**SonarQube**
+**SonarQube Container**
 ````
 docker run -d --name sonar -p 9000:9000 sonarqube:lts-community
 ````
